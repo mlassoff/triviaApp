@@ -1,0 +1,19 @@
+#container{
+  margin: 10px;
+}
+
+button {
+  width: 100%;
+}
+
+#question{
+  background-color: #fafafa;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+#answer{
+  display: none;
+}
